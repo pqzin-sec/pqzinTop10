@@ -1,0 +1,49 @@
+#cardTotal .card-header.bg-success {
+    background-color: #594fe4 !important;
+}
+
+#cardCritical .card-header.bg-success {
+    background-color: #ff0000 !important;
+}
+
+#cardHigh .card-header.bg-success {
+    background-color: #ff8c19 !important;
+
+}
+
+#cardMedium .card-header.bg-success {
+    background-color: #ffff00 !important;
+}
+
+#cardLow .card-header.bg-success {
+    background-color: #00b050 !important;
+}
+
+#cardInfo .card-header.bg-success {
+    background-color: #00b0f0 !important;
+}
+
+/* text */
+#cardTotal .card-header .card-title {
+    color: #000000 !important;
+}
+
+#cardCritical .card-header .card-title {
+    color: #000000 !important;
+}
+
+#cardHigh .card-header .card-title {
+    color: #000000 !important;
+}
+
+#cardMedium .card-header .card-title {
+    color: #000000 !important;
+}
+
+#cardLow .card-header .card-title {
+    color: #000000 !important;
+}
+
+#cardInfo .card-header .card-title {
+    color: #000000 !important;
+}
